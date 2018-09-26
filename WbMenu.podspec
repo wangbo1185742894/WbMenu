@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'WbMenu'
-  s.version      = '1.0.1'
+  s.version      = '1.0.2'
   s.summary      = 'A short description of WbMenu.'
 
   s.homepage     = "https://github.com/wangbo1185742894/WbMenu"
