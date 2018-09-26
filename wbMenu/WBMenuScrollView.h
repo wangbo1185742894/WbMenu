@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UIView+MJExtension"
 @class WBContentView;
 
 @protocol WBMenuViewDelegate <NSObject>

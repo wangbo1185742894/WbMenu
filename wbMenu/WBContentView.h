@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UIView+MJExtension"
 
 @interface WBContentView : UIScrollView
 

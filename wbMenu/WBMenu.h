@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "WBContentView.h"
 #import "WBMenuScrollView.h"
+#import "UIView+MJExtension"
 
 @interface WBMenu : UIView<UIScrollViewDelegate>
 

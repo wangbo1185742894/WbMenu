@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UIView+MJExtension"
 
 @protocol WBMenuAllItemDelegate<NSObject>
 -(void)wbMenuAllItemSelect:(NSInteger )index;
