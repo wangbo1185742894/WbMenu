@@ -7,14 +7,10 @@
 //  Copyright (c) 2014年 小码哥. All rights reserved.
 //
 
-
-
-#import <UIKit/UIKit.h>
 #define RGBCOLOR(r,g,b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1]
-
-
 #define KscreenWidth CGRectGetWidth([UIScreen mainScreen].bounds)
 #define KscreenHeight CGRectGetHeight([UIScreen mainScreen].bounds)
+#import <UIKit/UIKit.h>
 
 @interface UIView (MJExtension)
 @property (assign, nonatomic) CGFloat mj_x;
